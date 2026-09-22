@@ -1,7 +1,6 @@
 server:
   port: 9000
-spring:
-  jpa:
+
 eureka:
   client:
     fetch-client: true
